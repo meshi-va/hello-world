@@ -25,6 +25,13 @@ Every task completed will be listed under each part.
 ### Fork a repo
 
 - Forked and cloned [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife/) via Git CLI, using the command: `gh repo fork https://github.com/octocat/Spoon-Knife/`
+- Changed `index.html`
+- Including all changes with `git add .` 
+- Committed the changes by `git commit`, adding `-m` flag followed by the description of the changes enclosed in `""` - quotation marks
+- Pushed changes with `git push`
+
 
 ---
 ![Capture](https://user-images.githubusercontent.com/33745930/147414642-1b91c0a2-d1a5-4083-90ac-9500bed2bbe9.PNG)
+
+
